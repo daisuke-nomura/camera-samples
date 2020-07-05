@@ -7,6 +7,7 @@ started with the [Camera APIs](https://developer.android.com/guide/topics/media/
 
 | Sample                                    | Description  |
 | ----------------------------------------- | ------------ |
+| [CameraXBarcode](CameraXBarcode)          | Demonstrates how to use irebase MLKit Barcode Scanning with CameraX APIs. |
 | [CameraXBasic](CameraXBasic)              | Demonstrates how to use CameraX APIs. |
 | [CameraXTfLite](CameraXTfLite)            | Demonstrates how to use TfLite with CameraX APIs. |
 | [Camera2Basic](Camera2Basic)              | Demostrates capturing JPEG, RAW and DEPTH images, e.g. unprocessed pixel data directly from the camera sensor. |
